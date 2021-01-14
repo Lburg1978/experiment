@@ -160,6 +160,5 @@ p {
     position: static;
     transform: rotate(0);
     width: 60%;
-    align-self: center;
-}
+    
 }
