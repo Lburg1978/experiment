@@ -161,5 +161,6 @@ p {
     position: static;
     transform: rotate(0);
     width: 60%;
+    padding-right: 5px;
     
 }
